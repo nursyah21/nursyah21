@@ -1,11 +1,5 @@
 # nursyah21
 <p>
-こんにちは ジャや です！<br>
+my hobby is 🎧 listening japan music and 💻 writing some code<br>
+but if i write code while listen music , i can't get focus :(
 </p>
-
-🎧 listening japan music
-
-📖 reading manga
-
-💻 writing some program in bash
-
