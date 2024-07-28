@@ -2,6 +2,8 @@
 
 🚀 A passionate **Web Developer** with a love for modern frameworks and versatile programming languages.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15C2DE&width=435&lines=Building+functional+and+beautiful+web+experiences;Always+open+to+new+collaborations)](https://git.io/typing-svg)
+
 💻 **Key Skills:**
 
 * **Frontend:**
@@ -15,10 +17,6 @@
   * 🐚 **Bash:** Linux system administration and efficient shell scripting.
   * 🐹 **Go:**  Developing fast and concurrent backend applications with high performance.
   * ⚙️ **DevOps:** Experience with CI/CD (e.g., GitHub Actions, GitLab CI) and Docker.
-
-✨ **A Little Animation for Your README:**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15C2DE&width=435&lines=Building+functional+and+beautiful+web+experiences;Always+open+to+new+collaborations)](https://git.io/typing-svg)
 
 🤝 **Let's Collaborate!**
 
