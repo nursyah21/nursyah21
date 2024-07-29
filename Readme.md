@@ -20,12 +20,12 @@
 
 I'm a passionate full-stack developer who enjoys building efficient and scalable applications. Here's a glimpse into the technologies that empower my work:
 
-* **Nuxt:** The Vue.js framework that streamlines my development process with server-side rendering and static site generation.
+* **Nuxt.js:** The Vue.js framework that streamlines my development process with server-side rendering and static site generation.
 * **TypeScript:** Adding static typing to JavaScript elevates my code quality and makes it easier to maintain large projects.
 * **JavaScript:** The foundation of my front-end skills, powering dynamic interactions and user experiences.
 * **Next.js:** React's powerhouse framework for crafting lightning-fast and SEO-friendly web applications.
 * **Vue.js:** A progressive JavaScript framework, perfect for creating intuitive and reactive user interfaces.
-* **React:** The versatile JavaScript library that fuels my component-based development approach for building user interfaces.
+* **React.js:** The versatile JavaScript library that fuels my component-based development approach for building user interfaces.
 * **Golang:** My go-to language for building performant and concurrent backend services.
 * **Python:** The all-rounder language for scripting, data analysis, automation, and more.
 * **Bash:**  My trusty companion for shell scripting and automating development tasks.
