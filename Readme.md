@@ -1,3 +1,3 @@
 👋 Hi there! I'm Nursyah
 
-currently learn `flutter`, `solidjs`, and `deno` to build something awesome
+There's nothing in this repository at the moment, but I am currently learning Flutter and Firebase to find a job.
